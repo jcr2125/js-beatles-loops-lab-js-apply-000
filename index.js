@@ -24,5 +24,7 @@ function iLoveTheBeatles(num) {
   var arr = [];
   var counter = 0;
   
-  
+  do {
+    
+  }
 }
